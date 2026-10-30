@@ -82,8 +82,6 @@ The Ministry of External Affairs (MEA) handles apostille and normal attestation 
 
 Applicants should confirm the requirements of the organisation receiving their documents instead of assuming that one authentication route applies to every overseas destination.
 
-Official reference: https://www.mea.gov.in/apostille-menu.htm
-
 ## A Practical Example: An Applicant Relocating From Another State to Hyderabad
 
 Imagine an applicant who completed a postgraduate degree in Maharashtra and later moved to Hyderabad for employment. The applicant now receives an overseas job offer and is asked to submit an authenticated educational certificate.
